@@ -1,0 +1,10 @@
+body {
+	background-image: url(https://images.alphacoders.com/108/10891.jpg);
+	font-family: Tahoma, Arial, sans-serif;
+	color: rgb(255, 166, 0);
+}
+
+h1, h2 {
+	font-family: Tahoma, Arial, sans-serif;
+	color: orange;
+}
